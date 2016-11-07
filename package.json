@@ -22,7 +22,7 @@
     "express": "latest",
     "underscore": "latest",
     "commander": "latest",
-    "handlebars": "~1.0.7",
+    "handlebars": "~4.0.5",
     "winston": "latest",
     "nodemon": "latest",
     "repl.history": "latest",
